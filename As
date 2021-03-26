@@ -1,0 +1,22 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "127.0.0.1:3333",
+            "rig-id": "As"
+        },
+        {
+            "coin": null,
+            "algo": null,
+            "url": "rx.unmineable.com:3333",
+            "user": "0x5abb2b05d6be508d10ab269544be0f744ced4939",
+            "pass": "x",
+            "tls": false,
+            "keepalive": true,
+            "nicehash": false
+        }
+    ]
+}
